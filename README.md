@@ -45,7 +45,7 @@
 </a><br>
 
 ------
-Credits: [klee1611](https://github.com/ajay0398)
+Credits: [ajay0398](https://github.com/ajay0398)
 
 <!---
 ajay0398/ajay0398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
