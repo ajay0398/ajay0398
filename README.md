@@ -28,8 +28,8 @@
 
 ### Interests
 - DevOps
-- Full Stack Developer
-- System Design
+- AWS Cloud Engineer
+- Java Developer
 
 ### Contact
 <a href="https://www.linkedin.com/in/ajay-mahato007/" target="_blank">
